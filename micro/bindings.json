@@ -1,0 +1,4 @@
+{
+    "CtrlUnderscore": "lua:comment.comment",
+    "Alt-/": "command:fzfinder"
+}
