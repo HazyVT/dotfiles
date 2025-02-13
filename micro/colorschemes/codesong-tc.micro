@@ -26,9 +26,10 @@ color-link divider "#7aa2f7"
 color-link identifier "#59A35A"
 color-link identifier.macro "#9d7cd8"
 
-color-link default "#EAD1A6"
+color-link default "#282828, #EAD1A6"
 
-color-link statusline "#7A7267"
+color-link statusline ""
+color-link statusline.inactive "#7A7267"
 color-link underlined "underline #a9b1d6"
 color-link match-brace "#1f2335,#545c7e"
 color-link comment "#7A7267"
